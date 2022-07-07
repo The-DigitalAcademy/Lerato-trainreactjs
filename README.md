@@ -1,3 +1,3 @@
 # trainreactjs
 
-[Lerato](https://github.com/The-DigitalAcademy/Lerato-trainreactjs.git)
+[Lerato](Users/da_m1_53/Desktop/trainreactjs/index.html)
